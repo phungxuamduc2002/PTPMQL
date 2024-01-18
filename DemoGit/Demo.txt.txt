@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Nội dung đầu tiên
 Nội dung thứ 2
+=======
+Nội dung đầu tiên
+Nội dung thứ 2
+>>>>>>> a85434fb063aa50c022140392a376c2357364a8b

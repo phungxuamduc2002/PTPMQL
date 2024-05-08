@@ -5,7 +5,7 @@ namespace MvcMovie.Controllers
     public class HelloWorldController : Controller
     { 
         // GET: /HelloWorld/
-        public string Index()
+        public IActionResult Index()
         {
             return View();
         } 

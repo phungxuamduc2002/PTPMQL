@@ -1,3 +1,4 @@
+
 using Microsoft.AspNetCore.Mvc;
 
 namespace MvcMovie.Controllers
@@ -12,3 +13,13 @@ namespace MvcMovie.Controllers
         }
     }
 }
+[HttpPost]
+
+
+public IActionResult Index(Person ps)
+{
+    string str0utout = "Xin chào" + ps.PersonId + "_" + ps.FullName + "_" + ps.Addree;
+    ViewBag.InfoPerson = str0utout;
+    return View();
+}
+

@@ -29,3 +29,4 @@ E:\Net_Core_API\MvcMovie\obj\Debug\net8.0\refint\MvcMovie.dll
 E:\Net_Core_API\MvcMovie\obj\Debug\net8.0\MvcMovie.pdb
 E:\Net_Core_API\MvcMovie\obj\Debug\net8.0\MvcMovie.genruntimeconfig.cache
 E:\Net_Core_API\MvcMovie\obj\Debug\net8.0\ref\MvcMovie.dll
+E:\Net_Core_API\MvcMovie\obj\Debug\net8.0\MvcMovie.csproj.AssemblyReference.cache

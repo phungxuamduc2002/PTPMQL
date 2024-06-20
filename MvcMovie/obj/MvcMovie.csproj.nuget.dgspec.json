@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Net_Core_API\\MvcMovie\\MvcMovie.csproj": {}
+    "E:\\Net_Core_API\\mvcmovie\\mvcmovie.csproj": {}
   },
   "projects": {
-    "E:\\Net_Core_API\\MvcMovie\\MvcMovie.csproj": {
+    "E:\\Net_Core_API\\mvcmovie\\mvcmovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Net_Core_API\\MvcMovie\\MvcMovie.csproj",
-        "projectName": "MvcMovie",
-        "projectPath": "E:\\Net_Core_API\\MvcMovie\\MvcMovie.csproj",
+        "projectUniqueName": "E:\\Net_Core_API\\mvcmovie\\mvcmovie.csproj",
+        "projectName": "mvcmovie",
+        "projectPath": "E:\\Net_Core_API\\mvcmovie\\mvcmovie.csproj",
         "packagesPath": "C:\\Users\\Laptop\\.nuget\\packages\\",
-        "outputPath": "E:\\Net_Core_API\\MvcMovie\\obj\\",
+        "outputPath": "E:\\Net_Core_API\\mvcmovie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Laptop\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -41,6 +41,30 @@
             "EPPlus": {
               "target": "Package",
               "version": "[7.1.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SQLite": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.2, )"
             }
           },
           "imports": [
